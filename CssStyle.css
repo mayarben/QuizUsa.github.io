@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body {
+      background-image: url('whitebackground.png');
+    font-family: 'Arial';
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh;
+    }
+    .title {
+    font-size: 65px;
+    color:#455073;
+    font-weight: 800;
+    margin-bottom: 20px;
+    }
+  p {
+    font-size: 30px; 
+    font-weight: bold; 
+    color:#c0904d; 
+    margin-bottom: 20px;
+  }
+  
+  
+    .timer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 20px; 
+    }
+    .time_left_txt {
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    }
+    .timer_sec {
+    font-weight: bold;
+    font-size: 20px; 
+    }
+    .app {
+    background: white;
+    width: 100%;
+    max-width: 800px;
+    border-radius: 10px;
+    padding: 30px;
+    border-radius: 5px;
+    }
+    .quiz {
+    padding: 20px 0;
+    }
+    .quiz h2 {
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+    }
+    .btn {
+    background-color: white;
+    color: black;
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.1s;
+    font-weight: bold;
+    }
+    .btn:hover {
+    background-color: darkblue;
+    color: #fff;
+    }
+    .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    }
+  
+    .left-button,
+  
+    .right-button {
+    background: #001e4d;
+    color: #fff;
+    font-weight: 500;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+    
+    .correct {
+    background: green;
+    }
+    .incorrect {
+    background: red;
+    }
+  

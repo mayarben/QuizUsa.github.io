@@ -1,0 +1,92 @@
+[
+    {
+        "question": "When was the Declaration of Independence adopted?",
+        "options": [
+            { "text": "July 4, 1776", "correct": true },
+            { "text": "September 17, 1787", "correct": false },
+            { "text": "June 21, 1788", "correct": false },
+            { "text": "March 4, 1789", "correct": false }
+        ]
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": [
+            { "text": "Thomas Jefferson", "correct": false },
+            { "text": "John Adams", "correct": false },
+            { "text": "George Washington", "correct": true },
+            { "text": "James Madison", "correct": false }
+        ]
+    },
+    {
+        "question": "Which document outlines the fundamental laws and principles of the United States?",
+        "options": [
+            { "text": "Bill of Rights", "correct": false },
+            { "text": "Articles of Confederation", "correct": false },
+            { "text": "Declaration of Independence", "correct": false },
+            { "text": "Constitution", "correct": true }
+        ]
+    },
+    {
+        "question": "How many amendments are there in the United States Constitution?",
+        "options": [
+            { "text": "25", "correct": false },
+            { "text": "27", "correct": true },
+            { "text": "30", "correct": false },
+            { "text": "32", "correct": false }
+        ]
+    },
+    {
+        "question": "Who has the power to declare war according to the United States Constitution?",
+        "options": [
+            { "text": "President", "correct": false },
+            { "text": "Congress", "correct": true },
+            { "text": "Supreme Court", "correct": false },
+            { "text": "Joint Chiefs of Staff", "correct": false }
+        ]
+    },
+    {
+        "question": "How long is a term for a United States Senator?",
+        "options": [
+            { "text": "4 years", "correct": false },
+            { "text": "6 years", "correct": true },
+            { "text": "8 years", "correct": false },
+            { "text": "10 years", "correct": false }
+        ]
+    },
+    {
+        "question": "Who is the current Chief Justice of the United States Supreme Court?",
+        "options": [
+            { "text": "John Roberts", "correct": true },
+            { "text": "Ruth Bader Ginsburg", "correct": false },
+            { "text": "Antonin Scalia", "correct": false },
+            { "text": "Clarence Thomas", "correct": false }
+        ]
+    },
+    {
+        "question": "How many branches of government are there in the United States?",
+        "options": [
+            { "text": "2", "correct": false },
+            { "text": "3", "correct": true },
+            { "text": "4", "correct": false },
+            { "text": "5", "correct": false }
+        ]
+    },
+    {
+        "question": "Who is the current Speaker of the United States House of Representatives?",
+        "options": [
+            { "text": "Nancy Pelosi", "correct": true },
+            { "text": "Paul Ryan", "correct": false },
+            { "text": "John Boehner", "correct": false },
+            { "text": "Mitch McConnell", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the minimum age requirement to become President of the United States?",
+        "options": [
+            { "text": "35", "correct": true },
+            { "text": "40", "correct": false },
+            { "text": "45", "correct": false },
+            { "text": "50", "correct": false }
+        ]
+    }
+]
